@@ -1,0 +1,1 @@
+# Sentiment-Analysis-of-Climate-Change-Media-Coverage-in-UK-and-Australia
